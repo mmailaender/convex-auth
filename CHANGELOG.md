@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.0.84
+
+- Accept `shouldHandleCode` in ConvexAuthProvider
+
+## 0.0.83
+
+- Fix auth error messages not propagating from backend to client for Next.js
+
 ## 0.0.82
 
 - Add `shouldHandleCode` prop to React/Next.js clients and Next.js middleware to
